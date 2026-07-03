@@ -1,4 +1,4 @@
-# L'Oca Nera — Sales Dashboard
+# Sales Dashboard
 
 An interactive commercial analytics dashboard for an Italian home décor brand,
 built with **Streamlit** and **Plotly**. It turns raw orders and sales data into
