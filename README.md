@@ -5,7 +5,7 @@ built with **Streamlit** and **Plotly**. It turns raw orders and sales data into
 a set of business views: revenue trends, agent performance, customer retention
 and geographic distribution across Italy and abroad.
 
-> **Live demo:** _<!-- add your Streamlit Cloud URL here after deploying, e.g. https://commercial-dashboard.streamlit.app -->_
+> **Live demo:** _https://commercialdashboardataviz.streamlit.app/_
 
 ---
 
